@@ -1,8 +1,6 @@
 Multiple Message Windows (v 1.1)
 ===
 
-A script for [RPG Maker XP](http://en.wikipedia.org/wiki/RPG_Maker_XP), which uses Ruby. Written years ago and posted on some now-defunct forums, but may still be useful to folks.
-
 This custom message system adds numerous features on top of the default message system, the most notable being the ability to have multiple message windows open at once. The included features are mostly themed around turning messages into speech (and thought) bubbles, but default-style messages are of course still possible.
 
 ![Screenshot](http://s88387243.onlinehome.us/rmxp/multiple_message_windows/hands_off.png)
