@@ -47,7 +47,7 @@ Installation
 ---
 Copy the script in `src`, and open the Script Editor within RMXP. At the bottom of the list of classes on the left side of the new window, you'll see one called "Main". Right click on it and select "Insert". In the newly created entry in the list, paste this script.
 
-The following files must be in the Graphics/Windowskins folder: `blue-speech_tail.png`, `white-thought_tail.png` and `white-windowskin.png`. You can, of course, just change the filename constant to use your own.
+Copy images from `assets` into the Graphics/Windowskins folder. You can, of course, just change the filename constant to use your own.
 
 Usage
 ---
