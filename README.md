@@ -5,19 +5,17 @@ A script for [RPG Maker XP](http://en.wikipedia.org/wiki/RPG_Maker_XP), which us
 
 This custom message system adds numerous features on top of the default message system, the most notable being the ability to have multiple message windows open at once. The included features are mostly themed around turning messages into speech (and thought) bubbles, but default-style messages are of course still possible.
 
-[Screenshot](http://s88387243.onlinehome.us/rmxp/multiple_message_windows/hands_off.png)
+![Screenshot](http://s88387243.onlinehome.us/rmxp/multiple_message_windows/hands_off.png)
 
-[Screenshot](http://s88387243.onlinehome.us/rmxp/multiple_message_windows/thought_bubble.png)
+![Thought balloons](http://s88387243.onlinehome.us/rmxp/multiple_message_windows/thought_balloon.png)
 
-[Relative positioning](http://s88387243.onlinehome.us/rmxp/multiple_message_windows/bubble_locations.png)
+![Relative positioning](http://s88387243.onlinehome.us/rmxp/multiple_message_windows/balloon_locations.png)
+
+![Icons](http://s88387243.onlinehome.us/rmxp/multiple_message_windows/icons.png)
 
 Everything works during battle too:
 
-[Screenshot](http://s88387243.onlinehome.us/rmxp/multiple_message_windows/smacktalk.jpg)
-
-[Screenshot](http://s88387243.onlinehome.us/rmxp/multiple_message_windows/thought_bubble_battle.png)
-
-[Screenshot](http://s88387243.onlinehome.us/rmxp/multiple_message_windows/comeback.jpg)
+![Screenshot](http://s88387243.onlinehome.us/rmxp/multiple_message_windows/smacktalk.png)
 
 
 Features
