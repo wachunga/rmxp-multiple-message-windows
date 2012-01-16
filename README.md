@@ -7,15 +7,7 @@ This custom message system adds numerous features on top of the default message 
 
 ![Screenshot](http://s88387243.onlinehome.us/rmxp/multiple_message_windows/hands_off.png)
 
-![Thought balloons](http://s88387243.onlinehome.us/rmxp/multiple_message_windows/thought_balloon.png)
-
-![Relative positioning](http://s88387243.onlinehome.us/rmxp/multiple_message_windows/balloon_locations.png)
-
 ![Icons](http://s88387243.onlinehome.us/rmxp/multiple_message_windows/icons.png)
-
-Everything works during battle too:
-
-![Screenshot](http://s88387243.onlinehome.us/rmxp/multiple_message_windows/smacktalk.png)
 
 
 Features
@@ -26,8 +18,14 @@ Features
    * position over player/event (follows movement and scrolling)
    * optional message tail (for speech or thought bubbles)
    * can specify location relative to player/event (top, bottom, left, right)
+
+![Relative positioning](http://s88387243.onlinehome.us/rmxp/multiple_message_windows/balloon_locations.png)
+
 * thought bubbles
    * can use different windowskin, message tail and font color
+
+![Thought balloons](http://s88387243.onlinehome.us/rmxp/multiple_message_windows/thought_balloon.png)
+
 * letter-by-letter mode
    * variable speed (and delays)
    * skippable on button press
@@ -35,7 +33,10 @@ Features
 * player movement allowed during messages
    * if speaker moves offscreen, message closes (like ChronoTrigger)
 * everything also works during battle
-* settings configurable at anytime
+
+![Screenshot](http://s88387243.onlinehome.us/rmxp/multiple_message_windows/smacktalk.png)
+
+* settings configurable anytime
 
 Demo
 ---
