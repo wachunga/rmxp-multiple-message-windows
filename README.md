@@ -3,9 +3,9 @@ Multiple Message Windows (v 1.1)
 
 This custom message system adds numerous features on top of the default message system, the most notable being the ability to have multiple message windows open at once. The included features are mostly themed around turning messages into speech (and thought) bubbles, but default-style messages are of course still possible.
 
-![Screenshot](http://s88387243.onlinehome.us/rmxp/multiple_message_windows/hands_off.png)
+![Screenshot](hands_off.png)
 
-![Icons](http://s88387243.onlinehome.us/rmxp/multiple_message_windows/icons.png)
+![Icons](icons.png)
 
 
 Features
@@ -17,12 +17,12 @@ Features
    * optional message tail (for speech or thought bubbles)
    * can specify location relative to player/event (top, bottom, left, right)
 
-![Relative positioning](http://s88387243.onlinehome.us/rmxp/multiple_message_windows/balloon_locations.png)
+![Relative positioning](balloon_locations.png)
 
 * thought bubbles
    * can use different windowskin, message tail and font color
 
-![Thought balloons](http://s88387243.onlinehome.us/rmxp/multiple_message_windows/thought_balloon.png)
+![Thought balloons](thought_balloon.png)
 
 * letter-by-letter mode
    * variable speed (and delays)
@@ -32,7 +32,7 @@ Features
    * if speaker moves offscreen, message closes (like ChronoTrigger)
 * everything also works during battle
 
-![Screenshot](http://s88387243.onlinehome.us/rmxp/multiple_message_windows/smacktalk.png)
+![Screenshot](smacktalk.png)
 
 * settings configurable anytime
 
